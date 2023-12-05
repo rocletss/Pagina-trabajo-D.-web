@@ -21,7 +21,7 @@ header{
 .producto-comprable{
 	max-width: 480px;
 	max-height: 720px;
-	padding-bottom: 1rem;
+
 	padding-top: 1rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
@@ -29,7 +29,24 @@ header{
 	flex-direction: row;
 }
 
-.carouselExampleIndicators{
+.prod{
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	text-align: center;
+}
+.cuadrilla {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+h3{
+
+}
+
+.carousel-inner{
 	
 }
 
