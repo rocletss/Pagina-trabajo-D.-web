@@ -11,11 +11,13 @@ header{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 	text-align: center;
+	font-family: ;
 	font-size: 1rem;
 	color: #EAE5DF;
 	background-color: #987F61;
 	box-shadow: grey 0px 4px 5px;
 }
+
 .producto-comprable{
 	max-width: 480px;
 	max-height: 720px;
@@ -25,8 +27,12 @@ header{
 	padding-right: 1rem;
 	display: flex;
 	flex-direction: row;
+}
+
+.carouselExampleIndicators{
 	
 }
+
 footer{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
