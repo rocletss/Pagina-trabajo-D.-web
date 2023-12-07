@@ -5,7 +5,8 @@
 }
 body{
 	background-color: #EAE5DF;
-
+	
+	min-height: 100vh;
 }
 header{
 	padding-top: 2rem;
@@ -37,7 +38,7 @@ header{
 	text-align: center;
 }
 .cuadrilla {
-	padding: 4rem;
+
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -54,6 +55,7 @@ h3{
 .bordes{
 	padding: 4rem;
 }
+
 footer{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
@@ -65,4 +67,5 @@ footer{
 	flex-direction: row;
 	justify-content: space-evenly;
 	background-color: #C1B2A0;
+	margin-top: auto;
 }
