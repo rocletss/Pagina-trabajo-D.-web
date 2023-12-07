@@ -37,6 +37,7 @@ header{
 	text-align: center;
 }
 .cuadrilla {
+	padding: 4rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -50,6 +51,9 @@ h3{
 	
 }
 
+.bordes{
+	padding: 4rem;
+}
 footer{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
