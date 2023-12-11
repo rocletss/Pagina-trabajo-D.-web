@@ -2,27 +2,28 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: content-box;
+	font-family: 'Libre Bodoni', serif;
 }
 body{
 	background-color: #EAE5DF;
+	display: flex;
+	flex-direction: column;
 	
-	min-height: 100vh;
+	
 }
 header{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 	text-align: center;
-	font-family: ;
 	font-size: 1rem;
 	color: #EAE5DF;
 	background-color: #987F61;
 	box-shadow: grey 0px 4px 5px;
 }
-
+/*
 .producto-comprable{
 	max-width: 480px;
 	max-height: 720px;
-
 	padding-top: 1rem;
 	padding-left: 1rem;
 	padding-right: 1rem;
@@ -36,7 +37,7 @@ header{
 	padding-left: 1rem;
 	padding-right: 1rem;
 	text-align: center;
-}
+}*/
 .cuadrilla {
 
     display: flex;
@@ -44,28 +45,21 @@ header{
     justify-content: space-around;
     margin: 20px;
 }
-h3{
 
-}
-
-.carousel-inner{
-	
-}
-
-.bordes{
-	padding: 4rem;
-}
-
-footer{
+.pie{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 	padding-left: 2rem;
 	padding-right: 0rem;
 	display: flex;
-	font-size: 1rem;
-	color: #EAE5DF;
 	flex-direction: row;
 	justify-content: space-evenly;
+	font-size: 1rem;
+	color: #EAE5DF;
 	background-color: #C1B2A0;
 	margin-top: auto;
+}
+
+#cont-principal{
+	
 }
