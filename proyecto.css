@@ -21,31 +21,7 @@ header{
 	background-color: #987F61;
 	box-shadow: grey 0px 4px 5px;
 }
-/*
-.producto-comprable{
-	max-width: 480px;
-	max-height: 720px;
-	padding-top: 1rem;
-	padding-left: 1rem;
-	padding-right: 1rem;
-	display: flex;
-	flex-direction: row;
-}
 
-.prod{
-	padding-bottom: 1rem;
-	padding-top: 1rem;
-	padding-left: 1rem;
-	padding-right: 1rem;
-	text-align: center;
-}
-.cuadrilla {
-
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 20px;
-}*/
 .bordes {
     padding: 1.5rem;
     background-color: #EAE5DF;
