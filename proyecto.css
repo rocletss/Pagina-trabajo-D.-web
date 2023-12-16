@@ -26,17 +26,10 @@ header{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	text-align: center;
     padding: 1.5rem;
     padding-bottom: 2rem;
     background-color: #EAE5DF;
-}
-h3{
-	padding: 2rem;
-	text-align: center;
-}
-p{
-	margin: 2rem;
-	font-size: 1.2rem;
 }
 
 .pie{
