@@ -1,0 +1,9 @@
+.dis{
+	display: flex;
+	flex-wrap: wrap-reverse;
+	max-width: 30%;
+    height: auto;
+}
+img:hover{
+	max-width: ;
+}

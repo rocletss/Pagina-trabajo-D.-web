@@ -32,6 +32,19 @@ header{
     background-color: #EAE5DF;
 }
 
+h2{
+
+	padding: 1.5rem;
+	box-shadow: grey 4px 3px 4px;
+	background-color:  #987F61;
+}
+
+.llamativo{
+	color: rgb(25, 135, 84, 1.0);
+}
+.llamativo:visited{
+	color: black;
+}
 .pie{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
