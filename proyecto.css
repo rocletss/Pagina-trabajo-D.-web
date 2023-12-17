@@ -52,6 +52,15 @@ header{
 .desliz:hover{
 	margin-bottom: 2rem;
 	}
+
+.card {
+  transition: transform 0.5s ease; 
+}
+
+.card:hover {
+  transform: scale(1.05); 
+}
+
 .pie{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
@@ -66,8 +75,3 @@ header{
 	background-color: #C1B2A0;
 	margin-top: auto;
 }
-
-/* terminar la pag de info (con video maybe)
-   la pag de ofertas 
-   los links de los botones comprar
-   transicion de los iconos del footer (que aparezca texto maybe)*/
