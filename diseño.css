@@ -1,9 +1,12 @@
-.dis{
+.ilust{
 	display: flex;
-	flex-wrap: wrap-reverse;
+	flex-direction: column-reverse;
+	justify-content: space-evenly;
+	padding: 2em;
 	max-width: 30%;
     height: auto;
+    transition: 2s;
 }
-img:hover{
-	max-width: ;
+.ilust:hover{
+	max-width: 40%;
 }

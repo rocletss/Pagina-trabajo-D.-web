@@ -37,14 +37,21 @@ h2{
 	padding: 1.5rem;
 	box-shadow: grey 4px 3px 4px;
 	background-color:  #987F61;
+	border-radius: 7px;
+	transition: margin-bottom 2s;
+
 }
 
 .llamativo{
 	color: rgb(25, 135, 84, 1.0);
+
 }
 .llamativo:visited{
 	color: black;
 }
+h2:hover{
+	margin-bottom: 2rem;
+	}
 .pie{
 	padding-top: 2rem;
 	padding-bottom: 2rem;
